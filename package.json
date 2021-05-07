@@ -1,0 +1,15 @@
+{
+  "name": "@accateo/hex2bin",
+  "version": "3.0.0",
+  "description": "NPM Package to convert hexadecimal number to binary",
+  "license": "MIT",
+  "repository": "accateo/hex2bin",
+  "main": "index.js",
+  "keywords": [
+    "hex2bin",
+    "npm",
+    "package",
+    "hexadecimal",
+    "binary"
+  ]
+}
