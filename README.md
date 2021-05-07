@@ -14,7 +14,7 @@ $ npm install @accateo/hex2bin
 ## Usage
 
 ```js
-const hex2bin = require("@accateo/hex2bi");
+const hex2bin = require("@accateo/hex2bin");
 
 hex2bin("16");
 //=> 0001 0110
