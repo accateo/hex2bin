@@ -18,3 +18,4 @@ const hex2bin = require("@accateo/hex2bin");
 
 hex2bin("16");
 //=> 0001 0110
+ 
